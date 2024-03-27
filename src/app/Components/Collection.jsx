@@ -4,11 +4,11 @@ import Image from 'next/image';
 import Img1 from "../Image/p1.jpeg";//IMPORT IMAGE
 import Img2 from "../Image/p2.jpeg";//IMPORT IMAGE
 //IMPORT SWIPER 
-import 'swiper/css';
-import 'swiper/css/navigation';
-import 'swiper/css/pagination';
+// import 'swiper/css';
+// import 'swiper/css/navigation';
+// import 'swiper/css/pagination';
 import { Swiper, SwiperSlide } from 'swiper/react';
-import { Navigation, Pagination } from 'swiper/modules';
+// import { Navigation, Pagination } from 'swiper/modules';
 import 'swiper/swiper-bundle.css';
 
 //IMPORT ARROWS

@@ -9,12 +9,12 @@ import Img3 from "../Image/Img3.png";
 import poster from "../Image/poster.png";
 
 //IMPORT SWIPER
-import 'swiper/css';
-import 'swiper/css/navigation';
-import 'swiper/css/pagination';
+// import 'swiper/css';
+// import 'swiper/css/navigation';
+// import 'swiper/css/pagination';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/swiper-bundle.css';
-import { Navigation, Pagination } from 'swiper/modules';
+// import { Navigation, Pagination } from 'swiper/modules';
 
 //IMPORT ICONS
 import { IoIosArrowBack, IoIosArrowForward } from 'react-icons/io';
